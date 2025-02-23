@@ -50,5 +50,5 @@ Notebook ini digunakan untuk melakukan forecasting terhadap tingkat penggunaan C
 * Data yang tersedia tidak memiliki missing value.
 * Terdapat 4 data outliers, akan tetapi berapa dalam rentang angka yang masuk akal (1-100). Selain itu, tidak ada keterangan mengenai data ourlier tersebut, sehingga saya asumsikan bahwa data tersebut merupakan peristiwa yang normal dan natural. Oleh karenanya, saya tetap menyertakan data outlier dalam analisis.
 * Time Series Chart menunjukkan adanya lonjakkan penggunaan yang dimulai pada bulan Mei. Adanya peristiwa ini menyebabkan pemilihan metode forecasting harus lebih spesifik.
-![Time Series Chart](https://drive.google.com/file/d/1k6ZO1CRjRX9DoY-oc5Fg90uZouP4LSgI/view?usp=drive_link)
+![Time Series Chart](https://drive.google.com/uc?export=view&id=1k6ZO1CRjRX9DoY-oc5Fg90uZouP4LSgI)
 * 
