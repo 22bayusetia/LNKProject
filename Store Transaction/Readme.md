@@ -3,9 +3,10 @@
 
 [**Dashboard Transaksi Penjualan**](https://public.tableau.com/app/profile/bayusetia/viz/StoreTransactionInsights/DashboardTransaksiPenjualan)
 
-Preview:
+**Preview**:
 ![**Dashboard Transaksi Penjualan**](https://drive.google.com/uc?export=view&id=1KdQ-uMBkmdKinafFGcId-uaphzDS6KMb)
 _Data awal yang disediakan memiliki 26 missing balue pada customer_province, yang mana bisa dilakukan imputasi dengan melihat customer_city. Oleh karenanya, data yang digunakan dalam analisis ini merupakan data setelah dilakukan imputasi setelah dilakukan research asal provinsi customer_city yang ternyata merupakan kelurahan/kecamatan yang ada di Kalimantan Utara._
+
 ---
 
 ## Pembahasan Hasil Analisis
