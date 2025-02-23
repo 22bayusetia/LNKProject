@@ -103,4 +103,4 @@ Terlihat bahwa LSTM memiliki hasil evaluasi yang terbaik dibandingkan dengan met
 * S-curve Model
 ![Desember LSTM](https://drive.google.com/uc?export=view&id=1xbwXAAdj3b3nTR7s3bv6EUA1qKDO38nI)
 
-Data Excel hasil forecast bulan Desember dari tiap-tiap model bisa dilihat pada folder ![berikut](https://github.com/22bayusetia/LNKProject/tree/main/CPU%20Utilization%20Prediction/Hasil%20Forecast%20Bulan%20Desember)
+Data Excel hasil forecast bulan Desember dari tiap-tiap model bisa dilihat pada folder [berikut!](https://github.com/22bayusetia/LNKProject/tree/main/CPU%20Utilization%20Prediction/Hasil%20Forecast%20Bulan%20Desember)
