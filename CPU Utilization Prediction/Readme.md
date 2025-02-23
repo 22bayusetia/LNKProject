@@ -58,6 +58,7 @@ Notebook ini digunakan untuk melakukan forecasting terhadap tingkat penggunaan C
 | MSE   | 44.88457267678008 | 27.511286933828732   | 26.610715112311755   | 25.961660385131836   |
 | RMSE   | 6.69959496363624   | 5.24512029736485   | 5.158557464283184   | 5.095258618081307  |
 | MAD  | 5.5656533338088945  | 3.5356422505307847  | 3.6763420581820117  | 3.488595485687256  |
+
 Terlihat bahwa LSTM memiliki hasil evaluasi yang terbaik dibandingkan dengan metode lainnya.
 * Setelahnya dilakukan visualisasi forecast data testing (yang dibandingkan dengan data asli)
 ![Visualisasi Forecast Data Testing](https://drive.google.com/uc?export=view&id=1oQlwHlFTU4i_6ocJecn6OtU5GgNFOZVn)
