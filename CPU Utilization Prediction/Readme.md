@@ -88,4 +88,7 @@ Notebook ini digunakan untuk melakukan forecasting terhadap tingkat penggunaan C
 
 Terlihat bahwa LSTM memiliki hasil evaluasi yang terbaik dibandingkan dengan metode lainnya.
 * Setelahnya dilakukan visualisasi forecast data testing (yang dibandingkan dengan data asli)
-![Visualisasi Forecast Data Testing](https://drive.google.com/uc?export=view&id=1oQlwHlFTU4i_6ocJecn6OtU5GgNFOZVn)
+![Visualisasi Forecast Data Testing SARIMA](https://drive.google.com/uc?export=view&id=1oQlwHlFTU4i_6ocJecn6OtU5GgNFOZVn)
+![Visualisasi Forecast Data Testing Moving Average](https://drive.google.com/uc?export=view&id=1wL7curIezwXhxClzTZ4xgKMFoOf_nw2q)
+![Visualisasi Forecast Data Testing S-curve Model](https://drive.google.com/uc?export=view&id=1wL7curIezwXhxClzTZ4xgKMFoOf_nw2q)
+![Visualisasi Forecast Data Testing LSTM](https://drive.google.com/uc?export=view&id=1tFDV8vJcDCkVEoxl7dt3dM7UEd7q)
