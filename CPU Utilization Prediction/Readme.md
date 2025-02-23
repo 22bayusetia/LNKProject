@@ -53,11 +53,37 @@ Notebook ini digunakan untuk melakukan forecasting terhadap tingkat penggunaan C
 ![Time Series Chart](https://drive.google.com/uc?export=view&id=1k6ZO1CRjRX9DoY-oc5Fg90uZouP4LSgI)
 * Langkah persiapan selanjutnya membagi data yang sudah dimiliki (Januari-November) menjadi data training dan testing; training 80%, testing 20%.
 * Setelahnya dilakukan training model dengan 4 metode yang sudah dijelaskan. Berikut ringkasan hasil evaluasi model yang dihasilkan:
-| Metriks | SARIMA              | Moving Average       | S-curved Trend Model  | LSTM                 |
-|---------|---------------------|----------------------|----------------------|----------------------|
-| MSE     | 44.88457267678008   | 27.511286933828732   | 26.610715112311755   | 25.961660385131836   |
-| RMSE    | 6.69959496363624    | 5.24512029736485     | 5.158557464283184    | 5.095258618081307    |
-| MAD     | 5.5656533338088945  | 3.5356422505307847   | 3.6763420581820117   | 3.488595485687256    |
+<table>
+    <tr>
+        <th>Metriks</th>
+        <th>SARIMA</th>
+        <th>Moving Average</th>
+        <th>S-curved Trend Model</th>
+        <th>LSTM</th>
+    </tr>
+    <tr>
+        <td>MSE</td>
+        <td>44.88457267678008</td>
+        <td>27.511286933828732</td>
+        <td>26.610715112311755</td>
+        <td>25.961660385131836</td>
+    </tr>
+    <tr>
+        <td>RMSE</td>
+        <td>6.69959496363624</td>
+        <td>5.24512029736485</td>
+        <td>5.158557464283184</td>
+        <td>5.095258618081307</td>
+    </tr>
+    <tr>
+        <td>MAD</td>
+        <td>5.5656533338088945</td>
+        <td>3.5356422505307847</td>
+        <td>3.6763420581820117</td>
+        <td>3.488595485687256</td>
+    </tr>
+</table>
+
 
 
 Terlihat bahwa LSTM memiliki hasil evaluasi yang terbaik dibandingkan dengan metode lainnya.
