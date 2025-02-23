@@ -91,4 +91,16 @@ Terlihat bahwa LSTM memiliki hasil evaluasi yang terbaik dibandingkan dengan met
 ![Visualisasi Forecast Data Testing SARIMA](https://drive.google.com/uc?export=view&id=1oQlwHlFTU4i_6ocJecn6OtU5GgNFOZVn)
 ![Visualisasi Forecast Data Testing Moving Average](https://drive.google.com/uc?export=view&id=1wL7curIezwXhxClzTZ4xgKMFoOf_nw2q)
 ![Visualisasi Forecast Data Testing S-curve Model](https://drive.google.com/uc?export=view&id=1wL7curIezwXhxClzTZ4xgKMFoOf_nw2q)
-![Visualisasi Forecast Data Testing LSTM](https://drive.google.com/uc?export=view&id=1tFDV8vJcDCkVEoxl7dt3dM7UEd7q)
+![Visualisasi Forecast Data Testing LSTM](https://drive.google.com/uc?export=view&id=1tFDV8vJcDCkVEoxl7dt3dM7UEd7q-0X9)
+
+### Tahap Forecasting Desember --> Forecasting_System_LNK.ipynb
+* Pada tahap ini akan dilakukan mounting file model yang sudah di-train pada tahap sebelumnya untuk digunakan melakukan forecast data penggunaan CPU bulan Desember.
+* Berikut merupakan hasil dari forecasting data penggunaan CPU bulan Desember.
+* Moving Average
+![Desember Moving Average](https://drive.google.com/uc?export=view&id=1fK3uRParLi2NmUNQL1QUp_stUjqiwGNR)
+* LSTM
+![Desember LSTM](https://drive.google.com/uc?export=view&id=1tGn3H5SHBQCwPAOrsdFTVKCC3tmNtGpR)
+* S-curve Model
+![Desember LSTM](https://drive.google.com/uc?export=view&id=1xbwXAAdj3b3nTR7s3bv6EUA1qKDO38nI)
+
+Data Excel hasil forecast bulan Desember dari tiap-tiap model bisa dilihat pada folder ![berikut](https://github.com/22bayusetia/LNKProject/tree/main/CPU%20Utilization%20Prediction/Hasil%20Forecast%20Bulan%20Desember)
